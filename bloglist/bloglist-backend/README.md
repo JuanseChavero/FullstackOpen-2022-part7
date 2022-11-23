@@ -1,3 +1,3 @@
 # App Link
 
-<https://blogapp-fullstackopen2022.herokuapp.com>
+<https://fullstack-2022-bloglist.herokuapp.com/>
